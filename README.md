@@ -8,7 +8,7 @@ We're used to seeing news that's mostly negative. So with this project I wanted 
 
 
 ### This project pulls JSON data from Reddit 
-- **Bad News Data** - Pulls json data from /r/News sorted by controversial
-- **Good News Data** - Pulls json data from /r/UpliftingNews
+- **Bad News Data** - Pulls json data from [/r/News](https://www.reddit.com/r/News) sorted by controversial
+- **Good News Data** - Pulls json data from [/r/UpliftingNews](https://reddit.com/UpliftingNews)
 
 With this project I also wanted to put a bit more emphasis on the tools of desktop applications, such as a checkbox to trigger different events.
